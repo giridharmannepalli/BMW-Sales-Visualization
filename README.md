@@ -139,9 +139,10 @@ This dashboard can be used for:
 
 ## 📷 Dashboard Preview
 
-*(Attach image here — e.g., the uploaded screenshot)*
-
 ![BMW Dashboard Screenshot](Screenshot 2025-11-02 110610.png)
 
 ---
+## Demos
+So what the dashboard looks like :https://app.powerbi.com/view?r=eyJrIjoiYzVhYTIwNGItOTEwMC00NDg4LTg1N2UtNjhhNzJmOTc2NmM5IiwidCI6ImNkNTRlMDgyLTdjMWEtNGExNS1hZTIyLWJlMDdkOTcxZTgxMSJ9
+
 
