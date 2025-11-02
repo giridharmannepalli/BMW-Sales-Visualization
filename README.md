@@ -141,8 +141,7 @@ This dashboard can be used for:
 
 *(Attach image here — e.g., the uploaded screenshot)*
 
-![BMW Dashboard Screenshot](./path-to-image.png)
+![BMW Dashboard Screenshot](Screenshot 2025-11-02 110610.png)
 
 ---
 
-Would you like me to tailor this README section for a **data analytics portfolio** (e.g., emphasizing tools and analysis) or for a **business presentation** (emphasizing strategic insights and results)?
