@@ -139,7 +139,7 @@ This dashboard can be used for:
 
 ## 📷 Dashboard Preview
 
-![BMW Dashboard Screenshot](.Screenshot 2025-11-02 110610.png)
+![BMW Dashboard Screenshot](https://github.com/giridharmannepalli/BMW-Sales-Visualization/blob/main/Screenshot%202025-11-02%20110610.png?raw=true)
 
 ---
 ## Demos
